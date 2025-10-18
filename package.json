@@ -14,3 +14,6 @@
     "vite": "^4.0.0"
   }
 }
+[build]
+  command = "npm run build"
+  publish = "dist"
